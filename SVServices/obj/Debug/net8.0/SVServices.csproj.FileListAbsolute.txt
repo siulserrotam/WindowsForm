@@ -1,0 +1,15 @@
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\bin\Debug\net8.0\SVServices.deps.json
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\bin\Debug\net8.0\SVServices.dll
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\bin\Debug\net8.0\SVServices.pdb
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\bin\Debug\net8.0\SVRepository.dll
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\bin\Debug\net8.0\SVRepository.pdb
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\obj\Debug\net8.0\SVServices.csproj.AssemblyReference.cache
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\obj\Debug\net8.0\SVServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\obj\Debug\net8.0\SVServices.AssemblyInfoInputs.cache
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\obj\Debug\net8.0\SVServices.AssemblyInfo.cs
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\obj\Debug\net8.0\SVServices.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\obj\Debug\net8.0\SVServices.csproj.Up2Date
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\obj\Debug\net8.0\SVServices.dll
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\obj\Debug\net8.0\refint\SVServices.dll
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\obj\Debug\net8.0\SVServices.pdb
+C:\Users\usuario\Escritorio\Space\Wform\SVServices\obj\Debug\net8.0\ref\SVServices.dll

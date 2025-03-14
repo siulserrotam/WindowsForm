@@ -1,0 +1,11 @@
+C:\Users\usuario\Escritorio\Space\Wform\SVRepository\bin\Debug\net8.0\SVRepository.deps.json
+C:\Users\usuario\Escritorio\Space\Wform\SVRepository\bin\Debug\net8.0\SVRepository.dll
+C:\Users\usuario\Escritorio\Space\Wform\SVRepository\bin\Debug\net8.0\SVRepository.pdb
+C:\Users\usuario\Escritorio\Space\Wform\SVRepository\obj\Debug\net8.0\SVRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Escritorio\Space\Wform\SVRepository\obj\Debug\net8.0\SVRepository.AssemblyInfoInputs.cache
+C:\Users\usuario\Escritorio\Space\Wform\SVRepository\obj\Debug\net8.0\SVRepository.AssemblyInfo.cs
+C:\Users\usuario\Escritorio\Space\Wform\SVRepository\obj\Debug\net8.0\SVRepository.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Escritorio\Space\Wform\SVRepository\obj\Debug\net8.0\SVRepository.dll
+C:\Users\usuario\Escritorio\Space\Wform\SVRepository\obj\Debug\net8.0\refint\SVRepository.dll
+C:\Users\usuario\Escritorio\Space\Wform\SVRepository\obj\Debug\net8.0\SVRepository.pdb
+C:\Users\usuario\Escritorio\Space\Wform\SVRepository\obj\Debug\net8.0\ref\SVRepository.dll
